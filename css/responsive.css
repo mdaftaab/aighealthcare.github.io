@@ -1,0 +1,10 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+}
+
+@media only screen and (min-width: 1920px) {
+    /* large laptops and desktops */
+    #carousel-hero .carousel-inner .carousel-caption,
+    #carousel-hero2 .carousel-inner .carousel-caption{left:15%;}
+}
